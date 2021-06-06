@@ -4,7 +4,7 @@
 
 ### Personal Information:
 
-- 👨‍💻 &nbsp; I’m currently C++ and JavaScript
+- 👨‍💻 &nbsp; I’m currently learning C++ and JavaScript
 - 📚 &nbsp; I am student in @codingburgas
 - 🚀 &nbsp; My projects are available on [Github](https://github.com/KNTaligadzhiev19?tab=repositories).
 - 📫 &nbsp; My mail: [KNTaligadzhiev19@codingburgas.bg](mailto:KNTaligadzhiev19@codingburgas.bg)
