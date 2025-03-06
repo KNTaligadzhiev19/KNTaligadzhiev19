@@ -1,20 +1,68 @@
-## Hi, I am Kostadin!
+## Hi, I am Kostadin Taligadzhiev! 👋
 
 <img align="right" height="250" width="375" src = "https://github-readme-stats.vercel.app/api?username=KNTaligadzhiev19&theme=tokyonight&show_icons=true&count_private=true">
 
-### Personal Information:
+### 🚀 About Me:
 
-- 👨‍💻 &nbsp; I’m currently learning C++ and JavaScript
-- 📚 &nbsp; I am student in @codingburgas
-- 🚀 &nbsp; My projects are available on [Github](https://github.com/KNTaligadzhiev19?tab=repositories).
-- 📫 &nbsp; My mail: [KNTaligadzhiev19@codingburgas.bg](mailto:KNTaligadzhiev19@codingburgas.bg)
-- <img src="https://bulma.io/images/bulma-logo.png" width="72px" height="18px" alt="bulmaLogo" > &nbsp; I have experience with Bulma
+I’m a **Manager** and **AI Designer & Developer** always curious of find ways to optimize a process with **AI** to create innovative solutions. With **certifications from IBM in Generative AI** and experience in **.NET, C++, and Python**, I love working on AI-driven automation, machine learning, and smart business solutions.
 
-### Languages and Tools:
+🏆 **Awards & Achievements**  
+- 🥉 **Third Place** - Imagine Cup Junior AI Hackathon (Microsoft)  
+- 🎖 **Youth Award for Contribution to IT** (2022 & 2023) – Nominated by the **President of Bulgaria**  
+- 🎤 Led **AI training sessions** at IBM, covering Watsonx.ai, AI model training, and prompt engineering  
 
-<code><img height="27" src="https://pbs.twimg.com/media/D1oRoQ0WsAA036b.png" alt="cpp"></code>
-<code><img height="27" src="https://user-images.githubusercontent.com/63719283/116715774-af5f6d80-a9df-11eb-9a93-5c6e01aae5d1.png" alt="js"></code>
+🌍 **Education**  
+- 🎓 **Computer Science in Engineering** (2024-2028) - University of Mining and Geology St. Ivan Rilski  
+- 🎓 **Vocational School for Computer Programming and Innovation** (2019-2024)  
+
+---
+
+### 💼 Experience:
+- **Client Service Manager** @ IBM *(Jan 2025 - Present)*
+- **AI and Business Automation** @ IBM *(Jun 2024 - Dec 2024)*
+- **.NET Developer Intern** @ Scalefocus *(Nov 2022 - Jun 2023)*
+- **.NET Developer Intern** @ TechnoLogica *(Feb 2023 - Jun 2023)*
+- **C++ Developer Intern** @ A Data Pro *(Feb 2022 - Jul 2022)*
+- **Summer Internship** @ A Data Pro *(Jul 2021)*
+
+---
+
+### 🛠 Skills:
+
+#### **Programming & AI Development**
+<code><img height="27" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="c++"></code>
+<code><img height="27" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt="dotnet"></code>
+<code><img height="27" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="python"></code>
+<code><img height="27" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="react"></code>
 <code><img height="27" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="node"></code>
-<code><img height="27" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="git"></code>
-<code><img height="27" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Devicon-html5-plain-wordmark.svg" alt="html"></code>
-<code><img height="27" src="https://user-images.githubusercontent.com/63719283/116717419-8809a000-a9e1-11eb-8e3c-148c4456be99.png" alt="css"></code>
+
+#### **Cloud & AI Tools**
+<code><img height="27" src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" alt="azure"></code>
+<code><img height="27" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="github"></code>
+<code><img height="27" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="git"></code>
+<code><img height="27" src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" alt="ibm"></code>
+
+#### **Design & Project Management**
+<code><img height="27" src="https://upload.wikimedia.org/wikipedia/commons/2/20/Photoshop_CC_icon.png" alt="photoshop"></code>
+<code><img height="27" src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" alt="illustrator"></code>
+
+---
+
+### 📜 Certifications:
+- **IBM Generative AI Expert - Designer** (IBM)  
+- **Adobe Certified Professional** (Photoshop, Illustrator, Graphic Design)  
+- **Microsoft Certified: Azure Fundamentals**  
+- **Project Management Ready** (PMI)  
+- **CPA - C++ Programming Essentials** (Cisco)  
+- **IELTS Academic C1** (British Council)  
+
+---
+
+### 📫 Contact Me:
+- 💼 **LinkedIn**: [linkedin.com/in/ktaligadzhiev](https://linkedin.com/in/ktaligadzhiev)  
+
+🔍 **Check out my GitHub repositories** → [GitHub Profile](https://github.com/ktaligadzhiev?tab=repositories)
+
+---
+
+🔥 Always excited to explore new AI technologies and create **intelligent solutions** that make a difference!
