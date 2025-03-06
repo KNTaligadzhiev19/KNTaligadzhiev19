@@ -8,7 +8,7 @@ I’m a **Manager** and **AI Designer & Developer** always curious of find ways 
 
 🏆 **Awards & Achievements**  
 - 🥉 **Third Place** - Imagine Cup Junior AI Hackathon (Microsoft)  
-- 🎖 **Youth Award for Contribution to IT** (2022 & 2023) – Nominated by the **President of Bulgaria**  
+- 🎖 **Youth Award for Contribution to IT** (2022 & 2023) – Awarded by the **President of Bulgaria**  
 - 🎤 Led **AI training sessions** at IBM, covering Watsonx.ai, AI model training, and prompt engineering  
 
 🌍 **Education**  
