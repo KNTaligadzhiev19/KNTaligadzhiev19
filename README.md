@@ -61,8 +61,6 @@ I’m a **Manager** and **AI Designer & Developer** always curious of find ways 
 ### 📫 Contact Me:
 - 💼 **LinkedIn**: [linkedin.com/in/ktaligadzhiev](https://linkedin.com/in/ktaligadzhiev)  
 
-🔍 **Check out my GitHub repositories** → [GitHub Profile](https://github.com/ktaligadzhiev?tab=repositories)
-
 ---
 
 🔥 Always excited to explore new AI technologies and create **intelligent solutions** that make a difference!
